@@ -76,7 +76,7 @@ Built with an executive dark-green visual identity inspired by the **Saudi Flag 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Youssefmohamed18/Hajj-Analytics.git](https://github.com/Youssefmohamed18/Hajj-Analytics.git)
+   git clone https://github.com/Youssefmohamed18/Hajj-Analytics.git
 
    ```
    ---
